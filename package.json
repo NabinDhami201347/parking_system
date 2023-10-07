@@ -1,0 +1,14 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "admin": "cd parking_admin && npm run dev",
+    "ui": "cd parking_ui && npm run dev",
+    "api": "cd parking_api && npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
